@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![efarhat's 42 stats](https://badge.mediaplus.ma/greenbinary/efarhat)](https://github.com/oakoudad/badge42)
 <!--
 **mhidoxox/mhidoxox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
