@@ -34,7 +34,7 @@ I'm a passionate developer with a love for creating web applications and solving
 
 ## Current Projects
 
-- **ft-pong**: A web app ping pong game (Check it out [here](https://github.com/0x00-A/ft_transcendence_42))).
+- **ft-pong**: A pong web app game (Check it out [here](https://ft-pong.me/auth))).
 
 ## Connect with Me
 
