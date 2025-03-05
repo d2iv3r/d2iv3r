@@ -1,6 +1,7 @@
 # Hi, I'm EL-Mahdi Farhat 👋
 - *A "Technicien Spécialisé en Développement Informatique"*,
-- *Student at 1337 Khouribga*,
+- *Software Engineer*
+- *Currently Student at 1337 Khouribga*,
 
 I'm a passionate developer with a love for creating web applications and solving problems through code.
 
